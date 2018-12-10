@@ -4,6 +4,6 @@
 
 ### Hash Vectorizers and Its advantages over TF-IDF Vectorizer
 
-##By:
+## By:
 
 Rohit Bansal
