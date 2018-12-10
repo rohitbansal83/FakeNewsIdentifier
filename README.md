@@ -2,7 +2,7 @@
 
 ## Sentimental Analysis on Text
 
-## Developer:
+## Developer
 
 Rohit Bansal
 
