@@ -1,6 +1,6 @@
-# FakeNewsIdentifier
+# Hash Vectorizer
 
-## Sentimental Analysis on Text
+## Advantages over TF-IDF vectorizer in sentiment analysis of social media content (say for identifying Fake News)
 
 ## Developer
 
